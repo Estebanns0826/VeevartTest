@@ -1,0 +1,3 @@
+En el archivo JUEGO_REINA, unicamente el usuario debe tener un compilador de codigo para poder ejecutar el programa,
+seguidamente se calcula la posición de las reinas para que no se maten entre si, este problema requirio una ardua busqueda
+de documentación para su conclución
